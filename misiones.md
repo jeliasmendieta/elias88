@@ -6,4 +6,5 @@
 5. Investigar los trabajos del Joker
 6. Tratar de investigar que trama el Flash Reverso
 7. Salvar a Hulk
-8. Matar a Hulk
+8. Salvar a superman
+9. Salvar a aquaman
